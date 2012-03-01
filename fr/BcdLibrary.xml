@@ -6,7 +6,7 @@
     <string key="accessDeniedTitle" value="Accés Refusé" version="1" />
     <string key="accessDeniedFormat" value="L'accès à {0} a été refusée. S'il vous plaît vérifiez que le fichier n'est pas utilisé et que vous êtes autorisé à supprimer/modifier cet emplacement." version="1" />
     <string key="oneEntry" value="Il ya une entrée dans le bootloader de Windows." version="1" />
-    <string key="multiEntriesFormat" value="Il ya un total de {0} entrées répertoriées dans le chargeur de démarrage." version="1" />
+    <string key="multiEntriesFormat" value="Il y a un total de {0} entrées répertoriées dans le chargeur de démarrage." version="1" />
     <string key="entryNum" value="Entrée #" version="1" />
     <string key="name" value="Nom" version="1" />
     <string key="bcdId" value="BCD ID" version="1" />
